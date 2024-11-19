@@ -1,0 +1,19 @@
+.navbar-toggler span {
+    color: white;
+}
+
+.navbar-brand img {
+    width: 32px;
+}
+
+.carousel-control-next-icon {
+
+    background-image: url(../images/next-arrow.png);
+}
+
+.carousel-control-prev-icon {
+
+    background-image: url(../images/prev-arrow.png);
+
+
+}
